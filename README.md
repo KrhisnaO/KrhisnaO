@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Krhisna Oyanedel 👋
 
-<!--
-**KrhisnaO/KrhisnaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Programadora Computacional, actualmente cursando Ingeniería en Desarrollo de Software. Me interesan los sistemas digitales, el desarrollo web y la mejora continua de procesos.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 💼 Actualmente trabajando en el área de Informática y Apoyo Administrativo, Ilustre Municipalidad de Curacaví
+- 🎓 Ingeniería en Desarrollo de Software — Instituto Profesional Duoc UC (2025 - Actualmente)
+- 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas de desarrollo
+- 🗣️ Inglés B2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+**Lenguajes:** Python · JavaScript · TypeScript · Kotlin · PL/SQL
+**Desarrollo web:** HTML · CSS · Tailwind · Node.js · Angular · Astro
+**Herramientas:** Git/GitHub · Figma · Jira · Trello · Unity
+
+## 📫 Contacto
+- LinkedIn: linkedin.com/in/krhisna-oyanedel-
+- Email: krhisnaoyanedel@gmail.com
