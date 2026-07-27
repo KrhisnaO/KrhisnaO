@@ -13,6 +13,9 @@ Analista Programadora Computacional, actualmente cursando Ingeniería en Desarro
 **Desarrollo web:** HTML · CSS · Tailwind · Node.js · Angular · Astro
 **Herramientas:** Git/GitHub · Figma · Jira · Trello · Unity
 
+## 🎨 Fuera del código
+📚 Leer · 🎧 Escuchar música · ✍️ Escribir · 🎮 Videojuegos · 🌱 Aprender cosas nuevas
+
 ## 📫 Contacto
 - LinkedIn: linkedin.com/in/krhisna-oyanedel-
 - Email: krhisnaoyanedel@gmail.com
